@@ -20,5 +20,6 @@
     <string name="note">note</string>
     <string name="news">news</string>
     <string name="media">media</string>
+    <string name="todo">TODO</string>
 
 </resources>
