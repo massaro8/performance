@@ -20,14 +20,14 @@
         android:layout_height="96dp"
         android:contentDescription="@string/nav_header_desc"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        app:srcCompat="@mipmap/ic_launcher_round"
-        tools:srcCompat="@drawable/logo_app" />
+        app:srcCompat="@drawable/logo_app"
+        />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="nomeutente"
+        android:text="@string/nomeutente"
 
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
@@ -35,5 +35,5 @@
         android:id="@+id/textView"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="nomeutente@gmail.com" />
+        android:text="@string/nomeutente_gmail_com" />
 </LinearLayout>
