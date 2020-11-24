@@ -12,4 +12,13 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="nomeutente">nomeutente</string>
     <string name="nomeutente_gmail_com">nomeutente@gmail.com</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="PERFORMANCE">PERFORMANCE</string>
+    <string name="appunti">appunti</string>
+    <string name="note">note</string>
+    <string name="news">news</string>
+    <string name="media">media</string>
+
 </resources>

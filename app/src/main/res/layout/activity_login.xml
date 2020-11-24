@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
-        tools:srcCompat="@drawable/LOGO_APP_FINITO"/>
+        tools:srcCompat="@drawable/logo_app"/>
 
     <EditText
         android:id="@+id/editTextTextEmailAddress5"
@@ -25,11 +25,11 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="72dp"
         android:background="@color/white"
-        android:drawableLeft="@drawable/ic_action_users"
+        android:drawableStart="@drawable/ic_action_users"
         android:ems="10"
-        android:hint="E-mail"
+        android:hint="@string/e_mail"
         android:inputType="textEmailAddress"
-        android:textSize="20dp" />
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/editTextTextPassword4"
@@ -39,11 +39,11 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
         android:background="@color/white"
-        android:drawableLeft="@drawable/ic_action_pass"
+        android:drawableStart="@drawable/ic_action_pass"
         android:ems="10"
-        android:hint="Password"
+        android:hint="@string/password"
         android:inputType="textPassword"
-        android:textSize="20dp"
+        android:textSize="20sp"
 
     <androidx.cardview.widget.CardView
         android:layout_width="300dp"
@@ -67,8 +67,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
-                android:textSize="20dp"
-                android:text="Log In"
+                android:textSize="20sp"
+                android:text="@string/log_in"
                 android:layout_centerInParent="true"
 
         </RelativeLayout>
