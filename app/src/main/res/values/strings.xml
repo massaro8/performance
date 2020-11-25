@@ -24,5 +24,6 @@
     <string name="logo">logo</string>
     <string name="username">username</string>
     <string name="calendar">calendar</string>
+    <string name="to_do_list">to do list</string>
 
 </resources>
