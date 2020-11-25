@@ -21,5 +21,8 @@
     <string name="news">news</string>
     <string name="media">media</string>
     <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="username">username</string>
+    <string name="calendar">calendar</string>
 
 </resources>
